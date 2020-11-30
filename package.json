@@ -1,0 +1,20 @@
+{
+  "name": "ts-di",
+  "version": "0.0.1",
+  "description": "di",
+  "main": "index.ts",
+  "repository": "https://github.com/ZZsuper/ts-di.git",
+  "author": "<hongyuzhuo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "reflect-metadata": "^0.1.13",
+    "ts-lib": "^0.0.5",
+    "typescript": "^4.1.2"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.8.2",
+    "@typescript-eslint/parser": "^4.8.2",
+    "eslint": "^7.14.0",
+    "parsel": "^0.3.0"
+  }
+}
